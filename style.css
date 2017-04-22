@@ -1,0 +1,12 @@
+﻿@import url('https://fonts.googleapis.com/css?family=League+Script');
+
+body {
+	background-image: url('foto.jpg');
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.jumbotron {
+	font-family: 'League Script', cursive;
+	font-size: 20px;
+}
